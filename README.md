@@ -1,6 +1,6 @@
-I make things to help me do other things.
+I make stuff to help do other stuff.
 
-Currently simping for Zig.
+Currently simping for Ziglang.
 
 <!--
 **mepley1/mepley1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
