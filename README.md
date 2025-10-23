@@ -1,4 +1,4 @@
-something something lower tco
+Something something lower TCO
 
 <!--
 **mepley1/mepley1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
