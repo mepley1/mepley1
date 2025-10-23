@@ -1,7 +1,4 @@
-Here you will find a bunch of instances of `a ____ <to|for> ____`.
-
-
-Currently simping for Ziglang.
+maybe you'll find something useful here. maybe you won't. 
 
 <!--
 **mepley1/mepley1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
